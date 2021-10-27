@@ -1,0 +1,14 @@
+﻿{
+  "Id": "VwKPT4vXGEah7GiSyXj04g",
+  "Reference": "HNyjd-VQgE6Nwm3BtLWU0Q/VwKPT4vXGEah7GiSyXj04g",
+  "ParentRef": "HNyjd-VQgE6Nwm3BtLWU0Q/4LvfDRuCcEmCpsedPtNq7Q",
+  "Name": "Sistema de Controle de Demandas - Página de Login",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-09-12T12:50:47.4920943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-12T12:50:47.4920943Z"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="-8, -8, 1382, 744" BrowserType="Edge" ContentHash="q01gLkacYUSn4nLPw61-Bw" Selector="&lt;html app='msedge.exe' title='Login - Sistema de Controle de Demandas'/&gt;" Url="https://desafiosrpa.com.br/demanda/login.html" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0aEsrMFPwgEinZ2fbG9vhUA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1a83e1c5f7cbe713088d01bdd93a20b1.png" xmlns="">0hA7HBQJBEEyYeLnf5fIk5Q</imageRef>
+</TargetApp>

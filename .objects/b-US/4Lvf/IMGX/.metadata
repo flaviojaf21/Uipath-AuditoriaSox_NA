@@ -1,0 +1,15 @@
+﻿{
+  "Id": "IMGXFeplTUaeTyz8-l616w",
+  "Reference": "HNyjd-VQgE6Nwm3BtLWU0Q/IMGXFeplTUaeTyz8-l616w",
+  "ParentRef": "HNyjd-VQgE6Nwm3BtLWU0Q/4LvfDRuCcEmCpsedPtNq7Q",
+  "Name": "Auditor 4.0",
+  "Description": "Aplicacao Auditor",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-09-13T13:51:21.7802889Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-13T13:51:21.7802889Z"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="ni6hZN5Gy0eVmhEnfEYKNg" FilePath="C:\Users\Flavi\OneDrive\Documents\UiPath\AuditoriaSox\app\auditor.exe" Selector="&lt;wnd app='auditor.exe' ctrlname='TelaPrincipal'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0PVtZ5mkN3kOkyK2Xc-J0xQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c95e47b74e329f4fcf4209e5edb5d410.png" xmlns="">0brzkHidojkaaTxu81sAYrA</imageRef>
+</TargetApp>
